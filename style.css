@@ -167,7 +167,8 @@ body{
 
 .box-img{
   height: 250px;
-  background-size: cover;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
