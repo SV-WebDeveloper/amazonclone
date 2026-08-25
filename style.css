@@ -19,7 +19,7 @@ body{
 .nav-logo{
   height: 40px;
   width: 100px;
-  background-image: url("Images/nav-logo.jpg");
+  background-image: url("nav-logo.jpg");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -121,7 +121,7 @@ body{
 
 /** Hero section **/
 .hero-section{
-  background-image: url("Images/backgroundAmazon.jpg");
+  background-image: url("backgroundAmazon.jpg");
   backgroud-size: cover;
   height: 450px;
   display: flex;
@@ -226,7 +226,7 @@ ul a{
 .footer-logo{
   height: 40px;
   width: 100px;
-  background-image: url("Images/nav-logo.jpg");
+  background-image: url("nav-logo.jpg");
   background-size: contain;
   background-repeat: no-repeat;
 }
